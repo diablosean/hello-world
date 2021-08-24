@@ -1,3 +1,3 @@
 # hello-world
 ## this is my change ##
-my firstrepository
+this is my first repository
